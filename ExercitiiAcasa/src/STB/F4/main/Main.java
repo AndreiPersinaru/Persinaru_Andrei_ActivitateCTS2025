@@ -4,7 +4,7 @@ import STB.F4.clase.AdapterTransport;
 import STB.F4.clase.TransportSubteran;
 import STB.F4.clase.TransportTerestru;
 
-public class main {
+public class Main {
     public static void valideazaBilet(TransportTerestru transportTerestru) {
         System.out.println("Se valideaza...");
         transportTerestru.validareBilet();
